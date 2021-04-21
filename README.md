@@ -5,7 +5,7 @@
 ![Geo 305 Final Project2](maps/305finalredlininguse.png)
 *Made using QGIS and Adobe Illustrator* 
 
-For this project, I wanted to understand where low performing schools are located and what communities they affect in my home-city of Louisville. For the comparison map, I wanted to see how these schools were potentially influenced by redlining practices. For the design, I included the names of each school to show the variety of school types and age ranges they serve. In the redlining map, I decided to keep the points the same color for easier comparison. 
+For project 1, I wanted to understand where low performing schools are located and what communities they affect in my home-city of Louisville. For the comparison map, I wanted to see how these schools were potentially influenced by redlining practices. For the design, I included the names of each school to show the variety of school types and age ranges they serve. In the redlining map, I decided to keep the points the same color for easier comparison. 
 
 ## Project 2, GEO 309 Final Project (Fall 2020)
 ![Geo 309 Final Project](maps/309finaluse.png)
