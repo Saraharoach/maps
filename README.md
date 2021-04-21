@@ -24,4 +24,4 @@ For project 2, I wanted to see if there was any correlation between asthma rates
 
 *Made using ArcGIS* 
 
-For project 3, we were tasked with creating a map of arches in Red River Gorge. As someone who hasn't visited this area in a while, creating this map helped me to better understand where I was mapping. For the design, I wanted to emphasize the arch locations and draw less attention on the stream names. I then added a county map of Kentucky with the mapping area outlined. Lastly, I added an image of one of the arches to show the character of Red River Gorge.
+For project 3, I was tasked with creating a map of arches in Red River Gorge. As someone who hasn't visited this area in a while, creating this map helped me to better understand where I was mapping. For the design, I wanted to emphasize the arch locations and draw less attention on the stream names. I then added a county map of Kentucky with the mapping area outlined. Lastly, I added an image of one of the arches to show the character of Red River Gorge.
